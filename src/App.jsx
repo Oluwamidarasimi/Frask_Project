@@ -35,24 +35,21 @@
 // export default App
 
 import React from "react";
-import './App.css';
+import "./App.css";
 import Header from "./COMPONENTS/Header";
 import Body from "./COMPONENTS/Body";
-import Features from "./COMPONENTS/features";
+import Features from "./COMPONENTS/Features";
 import CTA from "./COMPONENTS/CTA";
 import Footer from "./COMPONENTS/Footer";
-
 
 function App() {
   return (
     <>
-    <Header/>
-    <Body/>
-    <Features/>
-    <CTA/>
-    <Footer/>
-    
-    
+      <Header />
+      <Body />
+      <Features />
+      <CTA />
+      <Footer />
     </>
   );
 }
