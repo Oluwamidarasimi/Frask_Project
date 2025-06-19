@@ -1,0 +1,26 @@
+.body{
+    background-color: rgb(208, 241, 230);
+    padding: 100px 20px;
+    text-align: center;
+}
+.body-function h2 {
+    font-size: 36px;
+    color: darkgreen;
+    margin-bottom: 20px;
+}
+.body-function p{
+    font-size: 18px;
+    color: green;
+    margin-bottom: 30px;
+}
+.body-button{
+background-color: rgb(91, 254, 200);
+color: white;
+padding: 12px 30px;
+border-radius: 30px;
+text-decoration: none;
+font-weight: bold;
+}
+.body-button:hover{
+    background-color: green;
+}

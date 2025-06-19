@@ -1,0 +1,24 @@
+.header{
+background-color: rgb(6, 254, 171);
+color: darkgreen;
+padding: 20px 0;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+font-size: 24px;
+font-weight: bold;
+}
+nav a{
+    color: white;
+    margin-left: 20px;
+    text-decoration: none;
+}
+nav a:hover{
+    text-decoration: underline;
+}
